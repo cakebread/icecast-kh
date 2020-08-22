@@ -22,7 +22,7 @@ icecast requires the following packages :
         disable all Directory server interaction (YP).
 * ogg/vorbis - http://www.vorbis.com/files (>= version 1.0 required)
 
-For Uubntu, install these packages:
+For Ubuntu, install these packages:
    libvorbis-dev libopus-dev libxslt-dev libxml2-dev curl built-essential
 
 A Note About RPMS
