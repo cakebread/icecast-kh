@@ -392,7 +392,9 @@ dist_web_DATA = status.xsl \
                 statusbar.html \
                 admin.html \
                 index.html \
-                favicon.ico
+                favicon.ico \
+		xml2json.xslt \
+		status-json.xsl
 
 all: all-recursive
 
