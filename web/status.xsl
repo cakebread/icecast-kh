@@ -104,7 +104,7 @@
 <xsl:text disable-output-escaping="yes">&amp;</xsl:text>nbsp;
 
 <div class="poster">
-Support Icecast development at <a target="_blank" href="http://www.icecast.org">www.icecast.org</a>
+Visit Gigcaster for support <a target="_blank" href="https://gigcaster.com">Gigcaster</a>
 </div>
 </div>
 </body>
