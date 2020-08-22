@@ -6,7 +6,7 @@
 <xsl:template match = "/icestats" >
 <html>
 <head>
-<title>Icecast Streaming Media Server</title>
+<title>Gigcaster Radio Server</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
@@ -36,7 +36,6 @@
                 </xsl:choose>
         </tr></table>
     </div>
-
 
 <table border="0" cellpadding="4">
 <xsl:if test="server_name">
